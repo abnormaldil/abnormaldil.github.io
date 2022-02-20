@@ -1,6 +1,6 @@
-# anuragrajan.ml
+# abnormaldil.ml
 
-Github repo for <a href="https://www.anuragrajan.ml">Anurag's Website</a>
+Github repo for <a href="https://www.abnormaldil.ml">Dilshith's</a>
 
 ## How to get your own?
 1. Fork the repo
