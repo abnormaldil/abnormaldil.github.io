@@ -1,6 +1,6 @@
 # abnormaldil.ml
 
-Github repo for <a href="https://www.abnormaldil.ml">Dilshith's</a>
+Github repo for <a href="https://www.abnormaldil.ml">Dilshith's Website</a>
 
 ## How to get your own?
 1. Fork the repo
